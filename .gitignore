@@ -30,3 +30,6 @@ dist-ssr
 serviceAccountKey.json
 .firebase/
 *.tsbuildinfo
+
+# Retired generated output remains local
+/dist 2/

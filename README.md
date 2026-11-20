@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Read [AGENTS.md](AGENTS.md) for the shared OneDrive AI_Brain workflow and [docs/PROJECT_STRUCTURE.md](docs/PROJECT_STRUCTURE.md) for the repository map.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
